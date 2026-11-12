@@ -1,6 +1,6 @@
 # AudIEM Scan 🎧
 
-**AudIEM Scan**, kulak içi kulaklıklar (IEM) ve kafa üstü kulaklıklar için geliştirilmiş profesyonel bir kanal dengesi, sürücü rezonansı ve kablo cızırtı test aracıdır.
+**AudIEM Scan**, kulak içi kulaklıklar (IEM) ve kafa üstü kulaklıklar için geliştirilmiş profesyonel bir kanal dengesi, sürücü rezonansı ve cızırtı test aracıdır.
 
 ---
 
